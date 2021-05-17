@@ -1,4 +1,4 @@
-### <img src="https://i.imgur.com/fcJmWeg.jpg" width="800px"> 
+### <img src="https://i.imgur.com/fcJmWeg.jpg"> 
 
 - 👋 Hi, I’m @luisbadolato 
 - 👀 I’m interested in ...
